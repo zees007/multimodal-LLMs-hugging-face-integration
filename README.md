@@ -23,7 +23,7 @@ It showcases multimodal AI capabilities with a Spring AI backend and a Flutter-b
 
 ![Homepage](multimodals-LLMs-Hugging-Face/assets/home-page.jpg)
 
-![multimodels-chat-window](multimodals-LLMs-Hugging-Face/assets/multimodel window.jpg)
+![multimodels-chat-window](multimodals-LLMs-Hugging-Face/assets/multimodel-window.jpg)
 
 ⚙️ Tech Stack
 
